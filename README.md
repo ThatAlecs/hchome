@@ -1,3 +1,3 @@
 # hchome
 
-The easy to edit home page for your website.
+Save loads of time making the basic features of your website.
